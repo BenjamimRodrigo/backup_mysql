@@ -2,6 +2,6 @@
     "require": {
         "ifsnop/mysqldump-php": "2.*",
         "vlucas/phpdotenv": "^2.2",
-        "guzzlehttp/guzzle": "~4.0"
+        "guzzlehttp/guzzle": "~6.5"
     }
 }
